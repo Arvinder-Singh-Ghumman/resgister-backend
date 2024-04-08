@@ -3,7 +3,7 @@ const feeRoute = require("./routes/feeRoute")
 
 const app = express();
 
-const PORT = 3000
+const PORT = 8888;
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
