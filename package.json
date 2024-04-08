@@ -1,0 +1,14 @@
+{
+  "name": "arvindersingh",
+  "version": "1.0.0",
+  "description": "this is assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arvinder singh ghumman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
